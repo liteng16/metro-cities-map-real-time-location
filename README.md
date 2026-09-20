@@ -4,20 +4,20 @@ An interactive prototype for browsing metro lines and station locations by city.
 
 ## Live URLs
 
-- Home: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/
-- Beijing: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/beijing/
-- Shanghai: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/shanghai/
-- Guangzhou: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/guangzhou/
-- Shenzhen: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/shenzhen/
-- Chengdu: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/chengdu/
-- Hangzhou: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/hangzhou/
-- Nanjing: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/nanjing/
-- Wuhan: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/wuhan/
-- Chongqing: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/chongqing/
-- Xi'an: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/xian/
-- Tianjin: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/tianjin/
-- Shijiazhuang: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/shijiazhuang/
-- Hefei: https://liteng16.github.io/metro-cities-metro-cities-map-real-time-location/hefei/
+- Home: https://liteng16.github.io/metro-cities-map-real-time-location/
+- Beijing: https://liteng16.github.io/metro-cities-map-real-time-location/beijing/
+- Shanghai: https://liteng16.github.io/metro-cities-map-real-time-location/shanghai/
+- Guangzhou: https://liteng16.github.io/metro-cities-map-real-time-location/guangzhou/
+- Shenzhen: https://liteng16.github.io/metro-cities-map-real-time-location/shenzhen/
+- Chengdu: https://liteng16.github.io/metro-cities-map-real-time-location/chengdu/
+- Hangzhou: https://liteng16.github.io/metro-cities-map-real-time-location/hangzhou/
+- Nanjing: https://liteng16.github.io/metro-cities-map-real-time-location/nanjing/
+- Wuhan: https://liteng16.github.io/metro-cities-map-real-time-location/wuhan/
+- Chongqing: https://liteng16.github.io/metro-cities-map-real-time-location/chongqing/
+- Xi'an: https://liteng16.github.io/metro-cities-map-real-time-location/xian/
+- Tianjin: https://liteng16.github.io/metro-cities-map-real-time-location/tianjin/
+- Shijiazhuang: https://liteng16.github.io/metro-cities-map-real-time-location/shijiazhuang/
+- Hefei: https://liteng16.github.io/metro-cities-map-real-time-location/hefei/
 
 ## Included Cities
 
